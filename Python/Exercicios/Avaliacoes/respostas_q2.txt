@@ -1,0 +1,3 @@
+1) {'Tullius': 1, 'Antiga': 1, 'Cícero': 6, 'Élvia': 1, 'República': 1, 'Roma': 2, 'Grant': 1, 'Marco': 1, 'Κικέρων': 1, 'Sua': 1, 'Velho': 1, 'Antônio': 1, 'Michael': 1, 'Túlio': 1, 'Latim': 1, 'Cicero': 1, 'Jovem': 1, 'Segundo': 1, 'Romana': 1, 'Túlia': 2, 'Caio': 1, 'Híbrida': 1, 'Era': 1, 'Kikerōn': 1, 'Marcus': 1, 'XIX': 1}
+2) ['de', 'e', 'em', 'Cícero', 'da']
+3) ['Caio', 'maiores', 'europeias', 'ideias', 'europeias', 'criou']
